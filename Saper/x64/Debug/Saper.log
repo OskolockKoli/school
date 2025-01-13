@@ -1,0 +1,4 @@
+﻿  Saper.cpp
+C:\Users\User\source\repos\Saper\Saper.cpp(89,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\Saper\Saper.cpp(85): warning C4715: fillmap2: значение возвращается не при всех путях выполнения
+  Saper.vcxproj -> C:\Users\User\source\repos\Saper\x64\Debug\Saper.exe
